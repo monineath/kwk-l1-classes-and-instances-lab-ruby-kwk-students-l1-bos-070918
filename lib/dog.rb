@@ -1,4 +1,4 @@
 # dog.rb
 class Dog 
-   attr_reader :fido, :
+   attr_reader :fido, :snoopy, 
   
